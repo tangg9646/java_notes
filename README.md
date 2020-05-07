@@ -5,7 +5,7 @@
 
 仓库的目录根据**程序羊**建议的学习路线整理[文章](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247485282&idx=1&sn=1ab5c0722538bbe9d80dfee2bf30621d&scene=19#wechat_redirect)
 
-![image-20200427111917374](https://picgo-tangg-chengdu.oss-cn-chengdu.aliyuncs.com/picgo-chengdu/image-20200427111917374.png)
+![image-20200507115711242](https://picgo-tangg-chengdu.oss-cn-chengdu.aliyuncs.com/picgo-chengdu/image-20200507115711242.png)
 
 ## 学习路线
 
