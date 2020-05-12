@@ -7,6 +7,10 @@
 
 ![image-20200507115711242](https://picgo-tangg-chengdu.oss-cn-chengdu.aliyuncs.com/picgo-chengdu/image-20200507115711242.png)
 
+高清大图
+
+![](https://picgo-tangg-chengdu.oss-cn-chengdu.aliyuncs.com/picgo-chengdu/Java后端开发学习路线-高清版.jpg)
+
 ## 学习路线
 
 ### **基础知识** 
