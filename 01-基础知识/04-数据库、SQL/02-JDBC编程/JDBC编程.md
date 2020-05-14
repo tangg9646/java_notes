@@ -1,5 +1,11 @@
 [来源：廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744/1255943820274272)
 
+简易脑图：
+
+![image-20200514113927168](https://picgo-tangg-chengdu.oss-cn-chengdu.aliyuncs.com/picgo-chengdu/image-20200514113927168.png)
+
+[md文件和xmind文件下载地址](https://github.com/tangg9646/java_notes/tree/master/01-基础知识/04-数据库、SQL/02-JDBC编程)
+
 # JDBC简介
 
 Java DataBase Connectivity
