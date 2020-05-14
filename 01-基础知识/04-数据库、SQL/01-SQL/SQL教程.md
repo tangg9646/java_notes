@@ -8,6 +8,8 @@ SQL是==结构化查询语言(Structured Query Language)==的缩写，用来访�
 
 
 
+[文章地址和sql脚本](https://github.com/tangg9646/java_notes/tree/master/01-基础知识/04-数据库、SQL/01-SQL)
+
 
 
 # SQL快捷键
