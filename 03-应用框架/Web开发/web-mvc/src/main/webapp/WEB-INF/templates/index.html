@@ -1,0 +1,12 @@
+{% extends "_base.html" %}
+
+{% block main %}
+
+{% if user == null %}
+<h3>Welcome! [added by tangg]</h3>
+{% else %}
+<h3>Welcome {{ user.name }}!</h3>
+{% endif %}
+
+
+{% endblock %}
